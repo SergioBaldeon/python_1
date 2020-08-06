@@ -1,0 +1,5 @@
+print("Hola, ingresa una palabra:")
+palabra = input()
+total_caracteres =len(palabra)
+print("---------")
+print(f"el total de caracteres es: {total_caracteres}")
